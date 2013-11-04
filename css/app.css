@@ -1,0 +1,25 @@
+.pop{
+	cursor:pointer;
+}
+.popovercontent{
+	font-size:10pt;
+	font-weight:normal;
+	line-height:20px;
+	text-align:justify;
+}
+.tipping{
+	cursor:help;
+}
+.split{
+	width:100%;
+	border-bottom:#ccc 1px solid;
+}
+.noteamerror{
+	background-image:url('http://fc09.deviantart.net/fs50/f/2009/259/0/f/IT_Crowd___Teamwork_by_surlana.jpg');
+	background-position:right,bottom;
+	background-repeat:no-repeat;
+	height: 820px;
+}
+a.no-line:hover{
+	text-decoration:none;
+}
